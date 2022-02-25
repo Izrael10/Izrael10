@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Izrael10
-- 👀 I’m interested in devops
-- 🌱 I’m currently learning devops
-- 💞️ I’m looking to collaborate on devops
+- 👀 I’m interested in devops and ui/ux
+- 🌱 I’m currently learning devops and ui/ux
+- 💞️ I’m looking to collaborate on devops and ui/ux
 - 📫 How to reach me @Izrael10
 
 <!---

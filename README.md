@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Izrael10
-- 👀 I’m interested in devops and ui/ux
-- 🌱 I’m currently learning devops and ui/ux
-- 💞️ I’m looking to collaborate on devops and ui/ux
-- 📫 How to reach me @Izrael10
+- 👋 Hi, I’m @dontbeisrael__
+- 👀 I’m interested in Cloud Engineering
+- 🌱 I’m currently learning Frontend Dev and UI/UX
+- 💞️ I’m looking to collaborate on Frontend Dev.
+- 📫 How to reach me @dontbeisrael__
 
 <!---
-Izrael10/Izrael10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+dontbeisrael__/dontbeisrael__ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
